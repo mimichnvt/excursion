@@ -34,8 +34,16 @@ video{
 }
 
 p {
-    font-family: VErdana;
+    font-family: Verdana;
     font-size: 21px;
     color: gray;
 
+}
+
+.footer{
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 40px;
+}
 }
