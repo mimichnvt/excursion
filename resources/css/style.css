@@ -2,14 +2,14 @@ body{
     background-color: black;
     text-align: center;
 }
-h1{
+.header{
     color: white;
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
 }
 
-a{
+.link-cta{
     color: aquamarine;
     font-size: 16px;
 }
